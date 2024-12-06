@@ -23,7 +23,7 @@ API предоставляет возможность добавления, ре
 
 1. 🔧 **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/ev1lyas/music-library
+   git clone https://github.com/ev1lyas/music-library.git
    cd music-library
    ```
 
